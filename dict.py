@@ -1,3 +1,5 @@
+import numpy as np
+import pandas as pd
 
 def dict_practice():
     d = {'mike': 10, 'lucy': 2, 'ben': 30}
